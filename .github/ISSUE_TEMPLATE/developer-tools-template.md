@@ -1,9 +1,9 @@
 ---
 name: Educational Content Development
-about: Propose new educational content for the Core Network.
+about: Propose new educational content for Core.
 title: "[Educational Content] Title of Your Content"
-labels: [Educational Content]
-assignees: []
+labels: ''
+assignees: ''
 
 ---
 
