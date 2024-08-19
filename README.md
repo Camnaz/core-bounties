@@ -1,6 +1,6 @@
-# Core Network Bounties Program
+# Core Bounties Program
 
-Welcome to the Core Network Bounties Program! This initiative is designed to accelerate and reward impactful contributions to the Core ecosystem through open and collaborative community efforts, with a strong focus on aligning with the BTCfi ecosystem and the broader EVM landscape.
+Welcome to the Core Bounties Program! This initiative is designed to accelerate and reward impactful contributions to the Core ecosystem through open and collaborative community efforts, with a strong focus on aligning with the BTCfi ecosystem and the broader EVM landscape.
 
 ![core-header-docs](https://github.com/user-attachments/assets/160de55b-1732-4612-bb02-f7df8986881a)
 
