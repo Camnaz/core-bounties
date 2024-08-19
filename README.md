@@ -40,4 +40,4 @@ The **Core Legends Initiative** offers special incentives and historical recogni
 
 ## Getting Started
 
-To begin, explore the [issues](#) in this repository to find available bounty tasks or propose a new one. Whether you’re a developer, educator, or documentarian, there’s a way for you to contribute, drive the integration of Bitcoin’s security with the EVM landscape, and earn rewards!
+To begin, explore the [issues](https://github.com/Camnaz/core-bounties/issues) in this repository to find available bounty tasks or propose a new one. Whether you’re a developer, educator, or documentarian, there’s a way for you to contribute, drive the integration of Bitcoin’s security with the EVM landscape, and earn rewards!
