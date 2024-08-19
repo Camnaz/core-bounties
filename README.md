@@ -26,7 +26,7 @@ Browse the list of available bounty tasks that are ready for execution. These ta
 
 Have an idea that could benefit the Core Network, the BTCfi ecosystem, or the EVM landscape? [You can propose your own bounty task](https://github.com/Camnaz/core-bounties/issues/new/choose)! If the community sees its potential, we’ll pair it with someone capable of executing it. Once the task is completed, funding will be provided, and the contributor who brought the idea to fruition will be rewarded.
 
-> Learn more about the process on the [Core Bounties Program Guidelines](#) page.
+> Learn more about the process on the [Core Bounties Program Guidelines](https://github.com/Camnaz/core-bounties/blob/main/bounties/BOUNTIES_PROGRAM_GUIDELINES.md) page.
 
 ## ⚠️ Note on Dev Tooling Category
 
