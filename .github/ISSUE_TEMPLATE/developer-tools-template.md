@@ -1,8 +1,8 @@
 ---
-name: Developer and Community Tools
-about: Suggest a new developer tool or community resource.
-title: "[Developer Tool] Title of Your Tool"
-labels: [Developer Tool]
+name: Educational Content Development
+about: Propose new educational content for the Core Network.
+title: "[Educational Content] Title of Your Content"
+labels: [Educational Content]
 assignees: []
 
 ---
@@ -10,13 +10,13 @@ assignees: []
 **Title**: 
 
 **Summary**: 
-Brief summary of the developer tool.
+_Brief description of the educational content._
 
 **Context**: 
-Information on why this developer tool should be created.
+_Explanation of the need for this educational material._
 
 **References**: 
-Similar tools or references for similar functionalities.
+_Existing resources or similar educational content._
 
 **Estimate Suggested Reward**: 
-In $.
+_In $._
