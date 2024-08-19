@@ -1,6 +1,6 @@
 ---
 name: Developer and Community Tools
-about: Propose a new developer tool or community resource
+about: Suggest a new developer tool or community resource.
 title: "[Developer Tool] Title of Your Tool"
 labels: [Developer Tool]
 assignees: []
