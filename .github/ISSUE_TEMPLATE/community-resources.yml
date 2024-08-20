@@ -1,0 +1,50 @@
+name: Documentation / Community Resources
+description: Enhance or create new documentation or community resources.
+title: ""
+labels: []
+assignees: []
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Enter the title of your resource
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Overview of the documentation or community resource.
+      placeholder: Provide a summary
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Rationale for enhancing or creating this resource.
+      placeholder: Provide context
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Existing documentation or resources that could guide the new content.
+      placeholder: List any references
+    validations:
+      required: false
+
+  - type: input
+    id: reward
+    attributes:
+      label: Estimate Suggested Reward
+      description: In $.
+      placeholder: Suggested reward amount
+    validations:
+      required: false
