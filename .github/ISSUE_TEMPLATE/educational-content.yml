@@ -1,0 +1,50 @@
+name: Educational Content Development
+description: Propose new educational content for Core.
+title: "[Educational Content] Title of Your Content"
+labels: []
+assignees: []
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Enter the title of your content
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Brief description of the educational content.
+      placeholder: Provide a summary
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Explanation of the need for this educational material.
+      placeholder: Provide context
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Existing resources or similar educational content.
+      placeholder: List any references
+    validations:
+      required: false
+
+  - type: input
+    id: reward
+    attributes:
+      label: Estimate Suggested Reward
+      description: In $.
+      placeholder: Suggested reward amount
+    validations:
+      required: false
