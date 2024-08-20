@@ -1,0 +1,50 @@
+name: Developer and Community Tools
+description: Suggest a new developer tool or community resource.
+title: "[Developer Tool] Title of Your Tool"
+labels: []
+assignees: []
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Enter the title of your tool
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Brief summary of the developer tool.
+      placeholder: Provide a summary
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Information on why this developer tool should be created.
+      placeholder: Provide context
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Similar tools or references for similar functionalities.
+      placeholder: List any references
+    validations:
+      required: false
+
+  - type: input
+    id: reward
+    attributes:
+      label: Estimate Suggested Reward
+      description: In $.
+      placeholder: Suggested reward amount
+    validations:
+      required: false
