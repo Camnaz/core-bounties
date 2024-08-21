@@ -1,0 +1,59 @@
+name: Security Audits and Best Practices
+description: Conduct security audits and propose best practices for Core.
+title: "[Security Audit] Title of Audit"
+labels: []
+assignees: []
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Enter the title of the audit
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Provide a summary of the audit and its findings.
+      placeholder: Provide a summary
+    validations:
+      required: true
+
+  - type: textarea
+    id: vulnerabilities_identified
+    attributes:
+      label: Vulnerabilities Identified
+      description: List each vulnerability found, with details.
+      placeholder: Detail the vulnerabilities identified
+    validations:
+      required: true
+
+  - type: textarea
+    id: recommendations
+    attributes:
+      label: Recommendations
+      description: Suggest fixes or improvements for each identified issue.
+      placeholder: Provide recommendations
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact_assessment
+    attributes:
+      label: Impact Assessment
+      description: Explain the potential impact of the issues identified.
+      placeholder: Assess the impact
+    validations:
+      required: true
+
+  - type: input
+    id: reward
+    attributes:
+      label: Estimate Suggested Reward
+      description: In $.
+      placeholder: Suggested reward amount
+    validations:
+      required: false
