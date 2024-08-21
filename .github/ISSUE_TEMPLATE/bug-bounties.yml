@@ -1,26 +1,59 @@
-# Bug Bounties: Report Vulnerabilities for Financial Rewards
-title: "Bug Bounty: [Short Description of Vulnerability]"
-severity: "[High/Medium/Low]"
-description: |
-  **Summary:**
-  Provide a brief summary of the vulnerability.
+name: Bug Bounties
+description: Report security vulnerabilities or bugs for financial rewards.
+title: "[Bug Bounty] Title of Vulnerability"
+labels: []
+assignees: []
 
-  **Steps to Reproduce:**
-  1. Step one to reproduce the issue.
-  2. Step two to reproduce the issue.
-  3. ...
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Enter the title of the vulnerability
+    validations:
+      required: true
 
-  **Expected Behavior:**
-  Describe what you expected to happen.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Brief summary of the vulnerability.
+      placeholder: Provide a summary
+    validations:
+      required: true
 
-  **Actual Behavior:**
-  Describe what actually happened.
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Detailed steps to reproduce the vulnerability.
+      placeholder: Provide the steps to reproduce the issue
+    validations:
+      required: true
 
-  **Impact:**
-  Explain the potential impact of the vulnerability.
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Explain the potential impact of the vulnerability.
+      placeholder: Describe the impact
+    validations:
+      required: true
 
-  **Supporting Material:**
-  - Include code snippets, screenshots, or logs if applicable.
+  - type: textarea
+    id: supporting_material
+    attributes:
+      label: Supporting Material
+      description: Include code snippets, screenshots, or logs.
+      placeholder: Provide any supporting material
+    validations:
+      required: false
 
-recommendation: |
-  Suggest possible fixes or mitigations for the issue.
+  - type: input
+    id: reward
+    attributes:
+      label: Estimate Suggested Reward
+      description: In $.
+      placeholder: Suggested reward amount
+    validations:
+      required: false
