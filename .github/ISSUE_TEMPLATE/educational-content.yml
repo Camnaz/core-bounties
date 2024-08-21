@@ -1,6 +1,6 @@
-name: Educational Content Development
-description: Propose new educational content for Core.
-title: "[Educational Content] Title of Your Content"
+name: Educational Materials
+description: Create and submit educational content for new developers.
+title: "[Educational Material] Title of Content"
 labels: []
 assignees: []
 
@@ -9,34 +9,43 @@ body:
     id: title
     attributes:
       label: Title
-      placeholder: Enter the title of your content
+      placeholder: Enter the title of your educational content
     validations:
       required: true
 
   - type: textarea
-    id: summary
+    id: overview
     attributes:
-      label: Summary
-      description: Brief description of the educational content.
-      placeholder: Provide a summary
+      label: Overview
+      description: Provide an overview of the educational content and its goals.
+      placeholder: Provide an overview
     validations:
       required: true
 
   - type: textarea
-    id: context
+    id: topics_covered
     attributes:
-      label: Context
-      description: Explanation of the need for this educational material.
-      placeholder: Provide context
+      label: Topics Covered
+      description: List the topics covered in the material.
+      placeholder: List the topics covered
     validations:
       required: true
 
   - type: textarea
-    id: references
+    id: intended_audience
     attributes:
-      label: References
-      description: Existing resources or similar educational content.
-      placeholder: List any references
+      label: Intended Audience
+      description: Specify the target audience (e.g., beginner developers).
+      placeholder: Specify the intended audience
+    validations:
+      required: true
+
+  - type: textarea
+    id: supporting_material
+    attributes:
+      label: Supporting Material
+      description: Include links to content, code examples, visuals, or additional resources.
+      placeholder: Provide any supporting material
     validations:
       required: false
 
