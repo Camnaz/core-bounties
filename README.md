@@ -6,13 +6,32 @@ Welcome to the Core Bounties Program! This initiative is designed to accelerate 
 
 ## Overview
 
+## Core Bounties Program
+
 The Core Bounties Program is centered around the following key areas, all aimed at advancing the Core Network’s integration within the BTCfi ecosystem and enhancing the EVM landscape for developers who seek the security of Bitcoin:
 
-- **Developer and Community Tool Enhancements**: Create and refine tools that empower developers within the Core community, emphasizing the development of dApps that leverage the security of Bitcoin and are compatible with the EVM ecosystem.
-- **Educational Content Development**: Produce tutorials, guides, and other learning resources that help users and developers maximize their experience with the Core Network, contributing to both the BTCfi ecosystem and the broader EVM landscape.
-- **Improving Documentation and Community Resources**: Strengthen existing documentation and resources to ensure they are comprehensive, user-friendly, and aligned with the vision of integrating Bitcoin security with EVM-compatible development.
+### 1. Developer and Community Tool Enhancements
+Create and refine tools that empower developers within the Core community, emphasizing the development of dApps that leverage the security of Bitcoin and are compatible with the EVM ecosystem. This includes developing tools that simplify the development process, improve debugging capabilities, or provide enhanced analytics to optimize dApp performance on the Core Network.
 
-Our mission is to drive innovation by ensuring that all contributions are in sync with the broader goals of the BTCfi ecosystem and the EVM landscape, empowering developers to build secure and scalable dApps on Core.
+### 2. Educational Content Development
+Produce tutorials, guides, and other learning resources that help users and developers maximize their experience with the Core Network, contributing to both the BTCfi ecosystem and the broader EVM landscape. These educational materials should focus on enabling new developers to quickly grasp the fundamentals of building on Core, as well as advanced techniques for integrating Bitcoin’s security into EVM-compatible dApps.
+
+### 3. Improving Documentation and Community Resources
+Strengthen existing documentation and resources to ensure they are comprehensive, user-friendly, and aligned with the vision of integrating Bitcoin security with EVM-compatible development. This includes updating existing documentation, creating new resources that address emerging needs, and ensuring all content is accessible and easy to understand for developers at all levels.
+
+### 4. Security Audits and Best Practices
+Conduct in-depth security audits and propose best practices that enhance the security of the Core Network and its ecosystem. By identifying potential vulnerabilities and suggesting robust solutions, participants help maintain the high security standards expected of a network that leverages Bitcoin’s security. This category is crucial for ensuring that dApps and infrastructure built on Core are resilient against potential threats.
+
+### 5. Core Ecosystem Expansion
+Propose and develop new features, services, or integrations that expand the Core ecosystem, particularly those that align with the BTCfi vision of combining Bitcoin’s security with the flexibility of the EVM. This could involve introducing new financial instruments, cross-chain integrations, or services that make Core more attractive to developers and users within the broader crypto landscape.
+
+### 6. Bug Bounties
+Identify and report security vulnerabilities, bugs, or issues within the Core Network and its related tools, earning financial rewards for contributions that enhance the stability and security of the network. This initiative is integral to maintaining the integrity of the Core ecosystem, ensuring that developers and users alike can trust in the reliability and security of the platform.
+
+---
+
+Our mission is to drive innovation by ensuring that all contributions are in sync with the broader goals of the BTCfi ecosystem and the EVM landscape, empowering developers to build secure and scalable dApps on Core. Through this program, we aim to foster a community of developers and contributors who are committed to advancing the Core Network, leveraging the unmatched security of Bitcoin, and pushing the boundaries of what’s possible.
+
 
 ## How to Participate
 
