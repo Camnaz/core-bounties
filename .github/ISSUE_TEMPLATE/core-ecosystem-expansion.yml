@@ -1,0 +1,59 @@
+name: Core Ecosystem Expansion
+description: Propose and develop new features or services for Core.
+title: "[Feature Proposal] Title of Feature"
+labels: []
+assignees: []
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Enter the title of your feature proposal
+    validations:
+      required: true
+
+  - type: textarea
+    id: overview
+    attributes:
+      label: Overview
+      description: Provide an overview of the proposed feature and its purpose.
+      placeholder: Provide an overview
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Benefits
+      description: Explain the benefits to the Core ecosystem.
+      placeholder: List the benefits
+    validations:
+      required: true
+
+  - type: textarea
+    id: development_roadmap
+    attributes:
+      label: Development Roadmap
+      description: Outline the steps for developing and implementing the feature.
+      placeholder: Provide a development roadmap
+    validations:
+      required: true
+
+  - type: textarea
+    id: supporting_material
+    attributes:
+      label: Supporting Material
+      description: Include prototypes, designs, or code snippets if available.
+      placeholder: Provide any supporting material
+    validations:
+      required: false
+
+  - type: input
+    id: reward
+    attributes:
+      label: Estimate Suggested Reward
+      description: In $.
+      placeholder: Suggested reward amount
+    validations:
+      required: false
