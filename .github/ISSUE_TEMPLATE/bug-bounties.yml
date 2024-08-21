@@ -1,0 +1,26 @@
+# Bug Bounties: Report Vulnerabilities for Financial Rewards
+title: "Bug Bounty: [Short Description of Vulnerability]"
+severity: "[High/Medium/Low]"
+description: |
+  **Summary:**
+  Provide a brief summary of the vulnerability.
+
+  **Steps to Reproduce:**
+  1. Step one to reproduce the issue.
+  2. Step two to reproduce the issue.
+  3. ...
+
+  **Expected Behavior:**
+  Describe what you expected to happen.
+
+  **Actual Behavior:**
+  Describe what actually happened.
+
+  **Impact:**
+  Explain the potential impact of the vulnerability.
+
+  **Supporting Material:**
+  - Include code snippets, screenshots, or logs if applicable.
+
+recommendation: |
+  Suggest possible fixes or mitigations for the issue.
