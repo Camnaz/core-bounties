@@ -33,3 +33,27 @@ body:
 
   - type: textarea
     id: impact
+    attributes:
+      label: Impact
+      description: Explain how the changes improve the resource for the community.
+      placeholder: Describe the impact of the changes
+    validations:
+      required: true
+
+  - type: textarea
+    id: supporting_material
+    attributes:
+      label: Supporting Material
+      description: Include screenshots or snippets if applicable.
+      placeholder: Provide any supporting material
+    validations:
+      required: false
+
+  - type: input
+    id: reward
+    attributes:
+      label: Estimate Suggested Reward
+      description: In $.
+      placeholder: Suggested reward amount
+    validations:
+      required: false
